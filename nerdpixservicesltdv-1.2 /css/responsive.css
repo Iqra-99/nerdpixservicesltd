@@ -1,0 +1,184 @@
+@media (min-width: 992px) and (max-width: 1169px) {
+  .slider-content {
+    padding: 146px 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .main-menu ul.navbar-nav li {
+    display: inline-block;
+    padding: 0 8px;
+  }
+  .layer-1-1 h2 {
+    font-size: 24px;
+  }
+  .layer-1-2 h1 {
+    font-size: 31px;
+    line-height: 38px;
+    padding: 0px 30px;
+  }
+  .stick .main-menu ul.navbar-nav li a {
+    padding: 24px 0px;
+  }
+
+  .team-content.text-center > h4 {
+    font-size: 20px;
+  }
+
+  .suscribe-text h3 {
+    font-size: 16px;
+    padding-right: 20px;
+  }
+
+  .single-awesome-portfolio {
+    width: 33.33%;
+  }
+  .widget-product a img {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+  .widget-product .product-info {
+    display: block;
+    float: none;
+    padding-left: 0;
+    width: 100%;
+    margin-top: 20px;
+  }
+  .map-column {
+    margin-left: 0;
+    padding-right: 40px;
+  }
+  .post-information .entry-meta {
+    font-size: 13px;
+    padding: 5px 0;
+  }
+  .post-information .entry-meta span a {
+    padding: 4px 0;
+  }
+  .service-pic {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .single-add-itms {
+    width: 50%;
+  }
+  .left-sidebar-title > h4 {
+    font-size: 18px;
+  }
+  .contact-form {
+    margin-top: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .header-area {
+    height: 60px !important;
+    background: #fff;
+  }
+  .navbar-header a.navbar-brand,
+  .stick .navbar-header a.navbar-brand {
+    display: inline-block;
+    height: 60px !important;
+    /* padding: 9px 0; */
+  }
+  .navbar-default .navbar-toggle,
+  .stick .navbar-default .navbar-toggle {
+    padding: 15px 0;
+  }
+
+  .navbar-default .navbar-toggle .icon-bar{
+     background-color: #3ec1d5;
+  }
+  .navbar-toggle .icon-bar{
+    color: #3ec1d5;
+  }
+
+
+
+  .nav.navbar-nav.navbar-right,
+  .stick .nav.navbar-nav.navbar-right {
+    background-color: #252525;
+    padding: 0;
+    margin-top: 0;
+  }
+  .main-menu ul.navbar-nav li,
+  .stick .main-menu ul.navbar-nav li {
+    display: block;
+  }
+  .main-menu ul.navbar-nav li a,
+  .stick .main-menu ul.navbar-nav li a {
+    padding: 10px 2px;
+  }
+  .stick .main-menu ul.nav > li > a,
+  .main-menu ul.navbar-nav li a{
+    color: #fff;
+  }
+  .main-menu ul.navbar-nav li.active a::after,
+  .stick .main-menu ul.navbar-nav li.active a::after {
+    border: 0px solid #fff;
+  }
+  .logo {
+    height: inherit;
+    left: 0;
+    padding: 0;
+    position: absolute;
+    top: -6px;
+    z-index: 999999;
+  }
+  .logo a {
+    padding: 0;
+  }
+
+  .slider-area {
+    margin-top: 60px;
+  }
+
+  .slider-content h2 {
+    font-size: 18px !important;
+    line-height: 24px !important;
+  }
+  .slider-content h1 {
+    font-size: 20px !important;
+    line-height: 26px !important;
+  }
+
+  .layer-1-3 a.ready-btn {
+    padding: 8px 15px;
+  }
+  .section-headline h2 {
+    font-size: 22px;
+  }
+  .well-middle .single-well {
+    margin-top: 30px;
+  }
+
+  .section-headline h3 {
+    font-size: 25px;
+  }
+
+  .single-team-member {
+    margin-bottom: 30px;
+  }
+  .service-right {
+    width: 100%;
+  }
+  .service-images:hover .overly-text {
+    display: none;
+  }
+  .portfolio-area {
+    padding-top: 0px;
+  }
+
+  .contact-form {
+    margin-top: 30px;
+  }
+
+  .footer-content {
+    margin-bottom: 30px;
+  }
+
+  .page-area .slider-content {
+    padding: 100px 0;
+  }
+}
